@@ -4,6 +4,7 @@ add_lunch_combo cyanogen_hero-eng
 add_lunch_combo cyanogen_heroc-eng
 add_lunch_combo cyanogen_sholes-eng
 add_lunch_combo cyanogen_umts_sholes-eng
+add_lunch_combo cyanogen_umts_sholes-user
 add_lunch_combo cyanogen_dream_sapphire-eng
 add_lunch_combo cyanogen_bravo-eng
 add_lunch_combo cyanogen_bravoc-eng
