@@ -18,6 +18,7 @@ add_lunch_combo cyanogen_passion-eng
 add_lunch_combo cyanogen_sholes-eng
 add_lunch_combo cyanogen_supersonic-eng
 add_lunch_combo cyanogen_umts_sholes-eng
+add_lunch_combo cyanogen_umts_sholes-user
 add_lunch_combo cyanogen_vision-eng
 add_lunch_combo cyanogen_z71-eng
 
